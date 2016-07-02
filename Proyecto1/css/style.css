@@ -1,0 +1,29 @@
+body {
+	background-color: rgb(230, 230, 230);
+	margin: 100;
+	text-align: center;
+	font-family: vereda
+}
+#logo {
+	margin: 25 auto;
+	padding: 0;
+}
+header {
+	background-color: #0092bf;
+	margin: 15px auto ;
+	color: white;
+	text-align: center;
+	width: 755px;
+	height: 250px
+	font-size: 24pt;
+	font-weight: bold;
+}
+#menu-social{
+	float: right;
+	list-style: none;
+	margin-top: 50px;
+}
+#menu-social li{
+	float: left;
+	margin-left: 10px;
+}
